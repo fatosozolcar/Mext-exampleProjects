@@ -1,0 +1,14 @@
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
