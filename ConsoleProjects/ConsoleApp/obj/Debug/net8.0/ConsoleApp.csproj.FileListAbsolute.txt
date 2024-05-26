@@ -12,3 +12,4 @@
 /Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json

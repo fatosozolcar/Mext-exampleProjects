@@ -18,6 +18,8 @@ namespace ConsoleApp.Models
             return $"Product Name: {Name}, Product Price: {Price}, Color: {Color}, Size: {Size}";
         }
 
+        
+
 
 
         /*   public override string ProductDescrpiton()

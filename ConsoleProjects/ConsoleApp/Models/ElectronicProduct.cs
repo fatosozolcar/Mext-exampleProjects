@@ -15,6 +15,15 @@ namespace ConsoleApp.Models
             return $"Product Name: {Name}, Product Price: {Price}, Warranty: {DefaultWarrantyDurationInDays}";
         }
 
+    /*     public void Save()
+        {
+            string path = "/Users/fatos/Desktop/Mext/MextProjects/ConsoleProjects/ConsoleApp/myname.txt";
+
+            string content = $"Product Name: {Name}, Product Price: {Price}, warranty: {DefaultWarrantyDurationInDays}";
+
+            File.AppendAllText(path, content);
+        }
+ */
 
         /*  public override string ProductDescrpiton()
          {
