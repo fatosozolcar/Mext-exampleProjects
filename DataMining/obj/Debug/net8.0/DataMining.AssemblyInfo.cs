@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DataMining")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969594d70f07e58bbac3044321a4d929cd0ca363")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("DataMining")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DataMining")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

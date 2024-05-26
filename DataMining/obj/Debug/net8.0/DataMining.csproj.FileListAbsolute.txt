@@ -1,0 +1,15 @@
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/bin/Debug/net8.0/DataMining
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/bin/Debug/net8.0/DataMining.deps.json
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/bin/Debug/net8.0/DataMining.runtimeconfig.json
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/bin/Debug/net8.0/DataMining.dll
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/bin/Debug/net8.0/DataMining.pdb
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.AssemblyInfoInputs.cache
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.AssemblyInfo.cs
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.csproj.CoreCompileInputs.cache
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.sourcelink.json
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.dll
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/refint/DataMining.dll
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.pdb
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/DataMining.genruntimeconfig.cache
+/Users/fatos/Desktop/Mext/MextProjects/DataMining/obj/Debug/net8.0/ref/DataMining.dll
